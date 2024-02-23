@@ -1,0 +1,12 @@
+{
+    "replacements": [
+        {
+            "matches": "MeltdownHandler:music",
+            "sounds": [
+                {
+                    "sound": "meltdown.ogg"
+                }
+            ]
+        }
+    ]
+}
