@@ -1,7 +1,7 @@
 {
     "replacements": [
         {
-            "matches": "MeltdownHandler:music",
+            "matches": "MeltdownHandler:meltdownMusic",
             "sounds": [
                 {
                     "sound": "meltdown.ogg"
